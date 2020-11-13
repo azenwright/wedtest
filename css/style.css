@@ -571,12 +571,12 @@ margin-top:60px;
     width: 50%;
 }
 
-.inner_section.col-md-6{
+.inner_section .row .col-md-6{
     padding: 0px;
     background-image:url("/img/gold1.jpg");
     box-shadow: 4px 4px 8px 8px white inset;
 }
-.inner_section.col-md-6:before {
+.inner_section .row .col-md-6::before {
     content: "";
     background-image:url("/img/gold1.jpg");
     background-size: cover;
