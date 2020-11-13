@@ -573,12 +573,11 @@ margin-top:60px;
 
 .inner_section .row .col-md-6{
     padding: 0px;
-    background-image:url("/img/gold1.jpg");
-    box-shadow: 4px 4px 8px 8px white inset;
 }
 .inner_section .row .col-md-6::before {
     content: "";
     background-image:url("/img/gold1.jpg");
+    box-shadow: 4px 4px 8px 8px white inset;
     background-size: cover;
     position: absolute;
     top: 0px;
