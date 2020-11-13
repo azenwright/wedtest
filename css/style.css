@@ -574,8 +574,9 @@ margin-top:60px;
 .inner_section {
     padding: 0px;
     background-image:url("/img/gold1.jpg");
+    box-shadow: 4px 4px 8px 8px white inset;
 }
-.inner_section:before {
+.inner_section:after {
     content: "";
     background-image:url("/img/gold1.jpg");
     background-size: cover;
