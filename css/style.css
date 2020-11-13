@@ -570,9 +570,11 @@ margin-top:60px;
     top: 25%;
     width: 50%;
 }
-
-.inner_section .row .col-md-6{
+.inner_section {
     padding: 0px;
+}
+.inner_section .row .col-md-6{
+
 }
 .inner_section .row {
     background-image:url("/img/gold1.png");
