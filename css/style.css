@@ -575,6 +575,18 @@ margin-top:60px;
     padding: 0px;
     background-image:url("/img/gold1.jpg");
 }
+.inner_section:before {
+    content: "";
+    background-image:url("/img/gold1.jpg");
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.75;
+}
+
 
 .service-list {
     padding: 0 0 0 0;
