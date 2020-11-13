@@ -575,16 +575,9 @@ margin-top:60px;
     padding: 0px;
 }
 .inner_section .row {
-    content: "";
     background-image:url("/img/gold1.png");
     box-shadow: 4px 4px 8px 8px white inset;
     background-size: cover;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    opacity: 0.75;
 }
 
 
