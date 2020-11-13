@@ -578,9 +578,16 @@ margin-top:60px;
 }
 .inner_section .row {
     background-image:url("/img/gold1.png");
-    box-shadow: 4px 4px 8px 8px white inset;
+   /* box-shadow: 4px 4px 8px 8px white inset; */
     background-size: cover;
-    padding: 8px
+    padding: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    /* border-radius: 8px; */
+    /* -webkit-box-shadow: 0px 0px 8px 4px rgba(212,175,55,0.9) */
+    -moz-box-shadow: 0px 0px 8px 4px rgba(212,175,55,0.9)
+    box-shadow: 0px 0px 8px 4px rgba(212,175,55,0.9);
+}
 }
 
 
