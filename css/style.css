@@ -367,7 +367,7 @@ display:none;
 .top_cont_outer {
     background: #ED5441;
     position: relative; 
-    background: url('../img/main2.jpg') no-repeat;
+    background: url('../img/humungus.jpg') no-repeat;   /*  main2.jpg  */
 	background-size: cover; 
 }
 
