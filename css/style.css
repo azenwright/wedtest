@@ -368,6 +368,8 @@ display:none;
     background: #ED5441;
     position: relative; 
     background: url('../img/madmax2.png') no-repeat;   /*  main2.jpg  */
+    background-position: center center;
+    background-repeat: no-repeat;
 	background-size: cover; 
 }
 
